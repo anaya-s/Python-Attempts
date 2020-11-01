@@ -1,0 +1,7 @@
+print("Hello World!)
+
+
+total = input(float("What was the cost?"))
+numberofpeople = input(int("How many people are present?"))
+cost = total/numberofpeople
+print("You must pay £" + str(cost) 
